@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogerioluizsi
-- 👀 I’m a Ph.D. candidate in Computer Science and I'm interested in data science.
+- 👀 I have a Ph.D. in Computer Science and am interested in AI and Data Science.
 -- 📫 rlcsf@cin.ufpe.br
 
 <!---
